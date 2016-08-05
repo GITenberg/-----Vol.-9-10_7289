@@ -1,0 +1,25 @@
+_repo: '-----Vol.-9-10_7289'
+_version: 0.0.1
+alternative_title: Han shi wai chuan, Vol. 9-10
+creator:
+  author:
+    agent_name: Han, Ying, active 150 B.C.
+    alias: 韓嬰
+    gutenberg_agent_id: '26122'
+    url: http://www.gutenberg.org/2009/agents/26122
+    wikipedia: http://zh.wikipedia.org/wiki/%E9%9F%93%E5%AC%B0
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7289'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Shi jing'
+- GITenberg
+title: 韓詩外傳, Vol. 9-10
+url: http://www.gutenberg.org/ebooks/7289
